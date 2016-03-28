@@ -1,2 +1,3 @@
 # hello_world
-My first repository
+
+So this is my first use of GitHub, but not my first use of repositories.
